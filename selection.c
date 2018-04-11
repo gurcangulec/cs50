@@ -8,8 +8,6 @@
 #include <string.h>
 #include <cs50.h>
 
-void print_each_element(int a[]);
-
 int main(void)
 {
     int i, j;
