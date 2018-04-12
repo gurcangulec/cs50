@@ -37,5 +37,6 @@ int main(void)
         // print i'th element of the array
         printf("%d ", numbers[i]);
     }
+    printf("\n");
     return 0;
 }
