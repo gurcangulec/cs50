@@ -1,7 +1,7 @@
 /*
  * Author: Gurcan Gulec
  * Filename: insertion.c
- * Desctiption: Implementation of insertion sort.
+ * Description: Implementation of insertion sort.
  */
 
 #include <stdio.h>

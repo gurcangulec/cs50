@@ -1,7 +1,7 @@
 /*
  * Author: Gurcan Gulec
  * Filename: bubble.c
- * Desctiption: Implementation of bubble sort
+ * Description: Implementation of bubble sort
  */
 
 #include <stdio.h>

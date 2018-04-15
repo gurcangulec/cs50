@@ -1,7 +1,7 @@
 /*
  * Author: Gurcan Gulec
  * Filename: selection.c
- * Desctiption: Implementation of selection sort
+ * Description: Implementation of selection sort
  */
 
 #include <stdio.h>

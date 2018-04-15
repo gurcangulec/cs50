@@ -1,7 +1,7 @@
 /*
  * Author: Gurcan Gulec
  * Filename: linear_search.c
- * Desctiption: Implementation of linear search.
+ * Description: Implementation of linear search.
  */
 
 #include <stdio.h>
