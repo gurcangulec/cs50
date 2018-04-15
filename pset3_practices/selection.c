@@ -5,13 +5,11 @@
  */
 
 #include <stdio.h>
-#include <string.h>
-#include <cs50.h>
 
 int main(void)
 {
     int i, j;
-    int numbers[11] = {4, 56, 12, 7, 9, 72, 67, 3, 6, 11, 45};
+    int numbers[] = {4, 56, 12, 7, 9, 72, 67, 3, 6, 11, 45};
     // get the length of the array
     int length = sizeof(numbers) / sizeof(numbers[0]);
     // integer to swap numbers

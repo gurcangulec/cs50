@@ -5,12 +5,10 @@
  */
 
 #include <stdio.h>
-#include <string.h>
-#include <cs50.h>
 
 int main(void)
 {
-    int numbers[11] = {4, 56, 12, 7, 9, 72, 67, 3, 6, 11, 45};
+    int numbers[] = {4, 56, 12, 7, 9, 72, 67, 3, 6, 11, 45};
     // get the length of the array
     int length = sizeof(numbers) / sizeof(numbers[0]);
     // to keep the record of how many times we swapped in one loop
@@ -44,4 +42,5 @@ int main(void)
         printf("%d ", numbers[j]);
     }
     printf("\n");
+    return 0;
 }
